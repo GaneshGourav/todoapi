@@ -10,7 +10,16 @@
       "category": "Music",
       "price": 300
     },
-  
+    {
+      "id": 2,
+      "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
+      "name": "Soccer Match",
+      "description": "An exciting soccer match between two rival teams.",
+      "date": "2023-08-28",
+      "location": "Chennai",
+      "category": "Sports",
+      "price": 250
+    },
     {
       "id": 3,
       "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
