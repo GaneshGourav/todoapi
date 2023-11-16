@@ -1,6 +1,15 @@
 {
   "events": [
-   
+    {
+      "id": 1,
+      "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
+      "name": "Music Festival",
+      "description": "A vibrant music festival featuring top artists from around the world.",
+      "date": "2023-09-15",
+      "location": "Delhi",
+      "category": "Music",
+      "price": 300
+    },
     {
       "id": 2,
       "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
